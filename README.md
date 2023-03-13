@@ -10,8 +10,8 @@
 # one is the 2D array for the May sales data.
 
 # The second file MIS480_coffee_MBA.R is a R script that takes the files output by the python script, above, and performs a 
-# Market Basket Analaysis.  The R script transforms the 2D arrays into sparce binary matrix, proicesses then as transactions 
-# for use by the arules package, produces an item freqency plot for each matrix, generates the rules (confidence 0.1) 
+# Market Basket Analysis.  The R script transforms the 2D arrays into sparce binary matrix, processes then as transactions 
+# for use by the arules package, produces an item frequency plot for each matrix, generates the rules (confidence 0.1) 
 # and displays the top 5 rules.   No oputput files are produced.   
 
 # IBM Samples Team. (2017, June 19). Small Coffee Chain Sales. IBM Accelerator Catalog. Retrieved from 
